@@ -11,12 +11,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, interessado em desenvolv
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <a href="https://github.com/RafahDP">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RafahDP&show_icons=true&show_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&locale=pt-br" alt="RafahDP's GitHub Stats" />
-  </a>
-  <a href="https://github.com/RafahDP">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafahDP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&locale=pt-br" alt="Most Used Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafahDP&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=A855F7&side_bg=0D1117&text_color=FFFFFF&fire=A855F7&locale=pt" alt="GitHub Streak" />
 </p>
 
 ---
