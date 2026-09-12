@@ -126,10 +126,8 @@ Repositório criado para registrar minha evolução nos estudos de Python, reuni
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RafahDP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafahDP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafahDP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats" />
 </p>
-
 ---
 
 # 🌐 Conecte-se comigo
