@@ -10,8 +10,14 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, interessado em desenvolv
 
 ## 🛠️ Tecnologias
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafahDP&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=A855F7&side_bg=0D1117&text_color=FFFFFF&fire=A855F7&locale=pt" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
