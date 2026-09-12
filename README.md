@@ -12,10 +12,10 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, interessado em desenvolv
 
 <p align="center">
   <a href="https://github.com/RafahDP">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RafahDP&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DB4CB2&icon_color=DB4CB2&text_color=FFFFFF&locale=pt-br&include_all_commits=true&count_private=true" alt="RafahDP's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RafahDP&show_icons=true&show_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&locale=pt-br" alt="RafahDP's GitHub Stats" />
   </a>
   <a href="https://github.com/RafahDP">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafahDP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DB4CB2&icon_color=DB4CB2&text_color=FFFFFF&locale=pt-br" alt="Most Used Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafahDP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&locale=pt-br" alt="Most Used Languages" />
   </a>
 </p>
 
@@ -84,4 +84,13 @@ Repositório criado para registrar minha evolução nos estudos de Python, reuni
 
 <p align="left">
   <a href="https://github.com/RafahDP">
-    <img src="
+    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafah-de-paula-5270b6253/">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>🚀 Sempre aprendendo, sempre construindo.</i>
+</p>
